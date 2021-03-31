@@ -14,4 +14,6 @@ Software tools for assisting research in microbial biological sciences lab
   * plots media background corrected growth curves
   * plots growth rate curves
   * calculates max growth rate for each sample
+* ### Usage:
+  * use main.py file as entry point 
   

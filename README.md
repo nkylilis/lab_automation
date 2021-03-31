@@ -1,7 +1,7 @@
 # lab_automation
 Software tools for assisting research in microbial biological sciences lab
 
-## 1) microplate_reader_data_analysis_tool
+## 1) microplate_reader_data_analysis_tools
 * ### Description: 
   * Python scripts for high throughput analysis of timecourse microplate reader microbial batch growth assays
 * ### Environment:

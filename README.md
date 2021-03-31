@@ -1,5 +1,5 @@
 # lab_automation
-Software tools for assisting research in microbial biological sciences lab
+Software tools for assisting research in microbial biological sciences labs
 
 ## 1) microplate_reader_data_analysis_tools
 * ### Description: 

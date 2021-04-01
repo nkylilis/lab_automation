@@ -3,7 +3,7 @@ Software tools for assisting research in microbial biological sciences labs
 
 ## 1) microplate_reader_data_analysis_tools
 * ### Description: 
-  * Python scripts for data analysis of timecourse microbial batch growth assays data from microplate readers assisted experiments
+  * Python scripts for data analysis of timecourse microbial batch growth assays data from microplate readers
 * ### Environment:
   * Python 3.7
   * pandas package
